@@ -71,6 +71,9 @@ sites:
   - name: HOSTING_ILGER
     url: $HOSTING_ILGER
 
+  - name: HOSTING4_ILGER
+    url: $HOSTING4_ILGER
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
