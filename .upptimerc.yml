@@ -56,9 +56,7 @@ sites:
     url: $KOS01
 
   - name: KOS02
-    check: "tcp-ping"
     url: $KOS02
-    port: 25
 
   - name: EMAILIT01
     check: "tcp-ping"
