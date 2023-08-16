@@ -4,9 +4,6 @@ repo: Uptime # The name of this repository
 
 sites:
 
-  - name: TAMINI
-    url: $TAMINI
-
   - name: IASACQUA
     url: $IASACQUA
 
@@ -65,12 +62,15 @@ sites:
     url: $KOS01
 
   - name: KOS02
-    check: "tcp-ping"
     url: $KOS02
-    port: 25
 
   - name: EMAILIT01
     url: $EMAILIT01
+
+  - name: EMAILIT02
+    check: "tcp-ping"
+    url: $EMAILIT02
+    port: 25
 
 
 status-website:
