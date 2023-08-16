@@ -3,8 +3,75 @@ owner: ilger02 # Your GitHub organization or username, where this repository liv
 repo: Uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+
+  - name: TAMINI
+    url: $TAMINI
+
+  - name: IASACQUA
+    url: $IASACQUA
+
+  - name: KOARA02
+    url: $KOARA02
+
+  - name: VPS_QWEB
+    url: $VPS_QWEB
+
+  - name: VPS2_QWEB
+    url: $VPS2_QWEB
+
+  - name: SIDERANET
+    url: $SIDERANET
+
+  - name: ZIM_WORDPOWER
+    url: $ZIM_WORDPOWER
+
+  - name: ZMAIL02
+    url: $ZMAIL02
+
+  - name: PORTIALTOTIRRENO
+    url: $PORTIALTOTIRRENO
+
+  - name: ZIMBRA9
+    url: $ZIMBRA9
+
+  - name: ASLFG1
+    url: $ASLFG1
+
+  - name: ASLFG2
+    url: $ASLFG2
+
+  - name: MAIL02_DIFESAACQUEALTE
+    url: $MAIL02_DIFESAACQUEALTE
+
+  - name: ILGERLAB05
+    url: $ILGERLAB05
+
+  - name: MADDALENA01
+    url: $MADDALENA01
+
+  - name: FINAOSTA
+    url: $FINAOSTA
+
+  - name: INFOCLOUDSERVICES
+    url: $INFOCLOUDSERVICES
+
+  - name: CASILLI01
+    url: $CASILLI01
+
+  - name: ALFASERVICE01
+    url: $ALFASERVICE01
+
+  - name: KOS01
+    url: $KOS01
+
+  - name: KOS02
+    check: "tcp-ping"
+    url: $KOS02
+    port: 25
+
+  - name: EMAILIT01
+    url: $EMAILIT01
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -14,13 +81,24 @@ status-website:
   logoUrl: https://www.ilger.com/wp-content/uploads/2021/11/ILGER-logo.png
   baseUrl: /Uptime
   icon: https://www.ilger.com/wp-content/uploads/2022/03/ilger-logo-favicon.png
-  introTitle: "Servers Uptime"
+  introTitle: "Servers Uptime - Site 02"
   introMessage: Status page with **real-time** data
   navbar:
-    - title: Status Page - 02
-      href: /Uptime
+    - title: Site00
+      href: https://ilger-supporto.github.io/Uptime/
     - title: Site01
       href: https://ilger01.github.io/Uptime/
+    - title: Site02
+      href: /Uptime
+
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
