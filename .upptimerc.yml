@@ -4,9 +4,6 @@ repo: Uptime # The name of this repository
 
 sites:
 
-  - name: TAMINI
-    url: $TAMINI
-
   - name: IASACQUA
     url: $IASACQUA
 
