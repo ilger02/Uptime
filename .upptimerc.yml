@@ -4,6 +4,9 @@ repo: Uptime # The name of this repository
 
 sites:
 
+  - name: TAMINI
+    url: $TAMINI
+
   - name: IASACQUA
     url: $IASACQUA
 
@@ -31,12 +34,6 @@ sites:
   - name: ZIMBRA9
     url: $ZIMBRA9
 
-  - name: ASLFG1
-    url: $ASLFG1
-
-  - name: ASLFG2
-    url: $ASLFG2
-
   - name: MAIL02_DIFESAACQUEALTE
     url: $MAIL02_DIFESAACQUEALTE
 
@@ -62,15 +59,22 @@ sites:
     url: $KOS01
 
   - name: KOS02
+    check: "tcp-ping"
     url: $KOS02
+    port: 25
 
   - name: EMAILIT01
+    check: "tcp-ping"
     url: $EMAILIT01
+    port: 25
 
   - name: EMAILIT02
     check: "tcp-ping"
     url: $EMAILIT02
     port: 25
+
+  - name: HOSTING_ILGER
+    url: $HOSTING_ILGER
 
 
 status-website:
