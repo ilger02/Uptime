@@ -112,19 +112,19 @@
     "url": "$ZMAIL02",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "zmail-02",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 798,
-    "timeDay": 1113,
-    "timeWeek": 844,
-    "timeMonth": 798,
-    "timeYear": 798,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 799,
+    "timeDay": 964,
+    "timeWeek": 840,
+    "timeMonth": 799,
+    "timeYear": 799,
     "dailyMinutesDown": {
-      "2023-09-04": 0
+      "2023-09-04": 26
     }
   },
   {
@@ -240,18 +240,20 @@
     "url": "$INFOCLOUDSERVICES",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "infocloudservices",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 845,
-    "timeDay": 1093,
-    "timeWeek": 916,
-    "timeMonth": 845,
-    "timeYear": 845,
-    "dailyMinutesDown": {}
+    "time": 839,
+    "timeDay": 894,
+    "timeWeek": 888,
+    "timeMonth": 839,
+    "timeYear": 839,
+    "dailyMinutesDown": {
+      "2023-09-04": 0
+    }
   },
   {
     "name": "CASILLI01",
