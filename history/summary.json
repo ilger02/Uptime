@@ -168,9 +168,9 @@
     "url": "$MAIL02_DIFESAACQUEALTE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-02-difesaacquealte",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -179,7 +179,9 @@
     "timeWeek": 938,
     "timeMonth": 910,
     "timeYear": 910,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-07": 0
+    }
   },
   {
     "name": "ILGERLAB05",
