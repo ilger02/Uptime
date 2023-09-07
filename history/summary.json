@@ -168,19 +168,19 @@
     "url": "$MAIL02_DIFESAACQUEALTE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-02-difesaacquealte",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 910,
-    "timeDay": 678,
-    "timeWeek": 938,
+    "timeDay": 788,
+    "timeWeek": 933,
     "timeMonth": 910,
     "timeYear": 910,
     "dailyMinutesDown": {
-      "2023-09-07": 0
+      "2023-09-07": 26
     }
   },
   {
@@ -269,7 +269,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 786,
-    "timeDay": 895,
+    "timeDay": 681,
     "timeWeek": 866,
     "timeMonth": 786,
     "timeYear": 786,
