@@ -271,19 +271,19 @@
     "url": "$CASILLI01",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "casilli-01",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 796,
-    "timeDay": 901,
-    "timeWeek": 825,
-    "timeMonth": 796,
-    "timeYear": 796,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 793,
+    "timeDay": 775,
+    "timeWeek": 803,
+    "timeMonth": 793,
+    "timeYear": 793,
     "dailyMinutesDown": {
-      "2023-09-13": 0
+      "2023-09-13": 13
     }
   },
   {
@@ -291,19 +291,19 @@
     "url": "$ALFASERVICE01",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "alfaservice-01",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 800,
-    "timeDay": 918,
-    "timeWeek": 840,
+    "timeDay": 844,
+    "timeWeek": 832,
     "timeMonth": 800,
     "timeYear": 800,
     "dailyMinutesDown": {
-      "2023-09-13": 0
+      "2023-09-13": 13
     }
   },
   {
