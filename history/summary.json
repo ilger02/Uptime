@@ -42,10 +42,10 @@
     "url": "$VPS_QWEB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vps-qweb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 1048,
@@ -54,6 +54,7 @@
     "timeMonth": 1076,
     "timeYear": 1048,
     "dailyMinutesDown": {
+      "2023-10-12": 1,
       "2023-09-16": 22
     }
   },
@@ -62,9 +63,9 @@
     "url": "$VPS2_QWEB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vps-2-qweb",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,7 +74,9 @@
     "timeWeek": 1118,
     "timeMonth": 1002,
     "timeYear": 1015,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-12": 0
+    }
   },
   {
     "name": "SIDERANET",
