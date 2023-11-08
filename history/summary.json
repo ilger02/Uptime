@@ -158,19 +158,19 @@
     "url": "$ZIMBRA9",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "zimbra-9",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 893,
-    "timeDay": 837,
-    "timeWeek": 809,
-    "timeMonth": 887,
-    "timeYear": 893,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 894,
+    "timeDay": 878,
+    "timeWeek": 826,
+    "timeMonth": 889,
+    "timeYear": 894,
     "dailyMinutesDown": {
-      "2023-11-08": 0
+      "2023-11-08": 12
     }
   },
   {
