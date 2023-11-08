@@ -158,9 +158,9 @@
     "url": "$ZIMBRA9",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "zimbra-9",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -169,7 +169,9 @@
     "timeWeek": 809,
     "timeMonth": 887,
     "timeYear": 893,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-08": 0
+    }
   },
   {
     "name": "MAIL02_DIFESAACQUEALTE",
@@ -277,18 +279,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "casilli-01",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "97.97%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 888,
     "timeDay": 806,
     "timeWeek": 817,
     "timeMonth": 843,
     "timeYear": 888,
     "dailyMinutesDown": {
-      "2023-11-08": 29
+      "2023-11-08": 18
     }
   },
   {
