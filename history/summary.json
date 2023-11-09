@@ -80,19 +80,19 @@
     "url": "$SIDERANET",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sideranet",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 894,
-    "timeDay": 859,
-    "timeWeek": 884,
-    "timeMonth": 902,
-    "timeYear": 894,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 893,
+    "timeDay": 835,
+    "timeWeek": 872,
+    "timeMonth": 898,
+    "timeYear": 893,
     "dailyMinutesDown": {
-      "2023-11-09": 1
+      "2023-11-09": 12
     }
   },
   {
