@@ -98,9 +98,9 @@
     "url": "$ZIM_WORDPOWER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "zim-wordpower",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "98.64%",
+    "uptimeDay": "98.60%",
     "uptimeWeek": "99.57%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
@@ -110,6 +110,7 @@
     "timeMonth": 879,
     "timeYear": 914,
     "dailyMinutesDown": {
+      "2023-11-09": 1,
       "2023-11-08": 43
     }
   },
@@ -158,19 +159,19 @@
     "url": "$ZIMBRA9",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "zimbra-9",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 890,
-    "timeDay": 768,
-    "timeWeek": 786,
-    "timeMonth": 881,
-    "timeYear": 890,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 892,
+    "timeDay": 815,
+    "timeWeek": 808,
+    "timeMonth": 886,
+    "timeYear": 892,
     "dailyMinutesDown": {
-      "2023-11-09": 0
+      "2023-11-09": 13
     }
   },
   {
