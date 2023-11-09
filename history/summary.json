@@ -80,10 +80,10 @@
     "url": "$SIDERANET",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sideranet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 894,
@@ -91,7 +91,9 @@
     "timeWeek": 884,
     "timeMonth": 902,
     "timeYear": 894,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-09": 1
+    }
   },
   {
     "name": "ZIM_WORDPOWER",
@@ -276,19 +278,19 @@
     "url": "$CASILLI01",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "casilli-01",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.73%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
-    "time": 889,
-    "timeDay": 809,
-    "timeWeek": 812,
-    "timeMonth": 853,
-    "timeYear": 889,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.47%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.97%",
+    "time": 888,
+    "timeDay": 805,
+    "timeWeek": 809,
+    "timeMonth": 851,
+    "timeYear": 888,
     "dailyMinutesDown": {
-      "2023-11-09": 0,
+      "2023-11-09": 19,
       "2023-11-08": 18
     }
   },
