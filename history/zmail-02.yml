@@ -1,7 +1,7 @@
 url: $ZMAIL02
-status: down
-code: 502
-responseTime: 942
-lastUpdated: 2023-11-16T03:47:01.572Z
+status: up
+code: 200
+responseTime: 807
+lastUpdated: 2023-11-16T04:25:05.593Z
 startTime: 2023-08-16T09:32:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
