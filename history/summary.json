@@ -25,12 +25,12 @@
     "status": "up",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
     "time": 927,
     "timeDay": 703,
-    "timeWeek": 943,
+    "timeWeek": 918,
     "timeMonth": 1004,
     "timeYear": 927,
     "dailyMinutesDown": {
@@ -246,9 +246,9 @@
     "url": "$FINAOSTA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "finaosta",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -257,7 +257,9 @@
     "timeWeek": 882,
     "timeMonth": 852,
     "timeYear": 855,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-22": 0
+    }
   },
   {
     "name": "INFOCLOUDSERVICES",
@@ -265,18 +267,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "infocloudservices",
     "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.75%",
+    "uptime": "99.76%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.76%",
     "time": 970,
     "timeDay": 971,
     "timeWeek": 1029,
     "timeMonth": 950,
     "timeYear": 970,
     "dailyMinutesDown": {
-      "2023-11-22": 13,
       "2023-10-07": 306,
       "2023-09-04": 32
     }
@@ -365,7 +366,7 @@
     "slug": "emailit-01",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "93.56%",
+    "uptimeDay": "95.32%",
     "uptimeWeek": "99.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.88%",
