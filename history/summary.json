@@ -66,19 +66,19 @@
     "url": "$VPS2_QWEB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vps-2-qweb",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1004,
-    "timeDay": 1329,
-    "timeWeek": 1035,
-    "timeMonth": 1043,
-    "timeYear": 1004,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 1002,
+    "timeDay": 1012,
+    "timeWeek": 993,
+    "timeMonth": 1032,
+    "timeYear": 1002,
     "dailyMinutesDown": {
-      "2023-12-13": 0
+      "2023-12-13": 13
     }
   },
   {
