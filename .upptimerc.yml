@@ -68,9 +68,6 @@ sites:
     url: $EMAILIT02
     port: 25
 
-  - name: HOSTING_ILGER
-    url: $HOSTING_ILGER
-
   - name: HOSTING4_ILGER
     url: $HOSTING4_ILGER
 
