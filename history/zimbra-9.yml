@@ -1,7 +1,7 @@
 url: $ZIMBRA9
-status: up
-code: 200
-responseTime: 737
-lastUpdated: 2024-02-06T05:27:57.605Z
+status: down
+code: 502
+responseTime: 516
+lastUpdated: 2024-02-06T05:40:56.673Z
 startTime: 2023-08-16T09:32:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
