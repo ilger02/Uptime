@@ -244,7 +244,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 877,
-    "timeDay": 825,
+    "timeDay": 1024,
     "timeWeek": 873,
     "timeMonth": 822,
     "timeYear": 877,
@@ -321,9 +321,9 @@
     "url": "$ALFASERVICE01",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "alfaservice-01",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -332,7 +332,9 @@
     "timeWeek": 959,
     "timeMonth": 833,
     "timeYear": 856,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-09": 0
+    }
   },
   {
     "name": "KOS01",
@@ -358,18 +360,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kos-02",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.98%",
     "time": 907,
     "timeDay": 1215,
     "timeWeek": 949,
     "timeMonth": 832,
     "timeYear": 907,
     "dailyMinutesDown": {
-      "2024-02-09": 13,
       "2024-01-05": 35,
       "2023-08-16": 21
     }
