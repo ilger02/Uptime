@@ -280,9 +280,9 @@
     "url": "$INFOCLOUDSERVICES",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "infocloudservices",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.82%",
@@ -292,6 +292,7 @@
     "timeMonth": 878,
     "timeYear": 962,
     "dailyMinutesDown": {
+      "2024-02-23": 0,
       "2024-02-02": 146,
       "2023-10-07": 306,
       "2023-09-04": 32
