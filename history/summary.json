@@ -321,9 +321,9 @@
     "url": "$CASILLI01",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "casilli-01",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -333,6 +333,7 @@
     "timeMonth": 808,
     "timeYear": 856,
     "dailyMinutesDown": {
+      "2024-05-13": 0,
       "2023-11-09": 19,
       "2023-11-08": 18
     }
