@@ -1,7 +1,7 @@
 url: $CASILLI01
-status: down
-code: 404
-responseTime: 10177
-lastUpdated: 2024-07-19T13:51:21.661Z
+status: up
+code: 200
+responseTime: 683
+lastUpdated: 2024-07-19T14:12:54.881Z
 startTime: 2023-08-16T09:32:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
