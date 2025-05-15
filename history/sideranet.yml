@@ -1,7 +1,7 @@
 url: $SIDERANET
-status: down
-code: 500
-responseTime: 1193
-lastUpdated: 2025-05-15T03:59:13.775Z
+status: up
+code: 200
+responseTime: 1084
+lastUpdated: 2025-05-15T04:32:59.709Z
 startTime: 2023-08-16T09:32:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
